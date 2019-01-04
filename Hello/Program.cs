@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Add some comments to the project
+
 namespace Hello
 {
     class Program
@@ -19,6 +21,7 @@ namespace Hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.ReadKey();
         }
     }
 }
